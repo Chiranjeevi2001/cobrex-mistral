@@ -10,4 +10,4 @@ Dataset used to finetune the model can be found [here](https://huggingface.co/da
 
 <br>
 
-The model has been trained using [QLoRA](https://medium.com/@levxn/lora-and-qlora-effective-methods-to-fine-tune-your-llms-in-detail-6e56a2a13f3c) technique, which enables large models to be trained on GPU-poor machines.
+The model has been trained using PEFT ([QLoRA](https://medium.com/@levxn/lora-and-qlora-effective-methods-to-fine-tune-your-llms-in-detail-6e56a2a13f3c)) technique, which enables large models to be trained on GPU-poor machines.
